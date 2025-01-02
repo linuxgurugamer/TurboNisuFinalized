@@ -30,7 +30,6 @@
 # 3:SOURCEFILE, DESTDIR
 3:TurboNisuFinalized.version,GameData/TurboNisuFinalized
 
-9:Extras
 
 #
 # End of file
