@@ -1,0 +1,49 @@
+1.0.0
+	Adopted by Linuxgurugamer
+
+	Adjusted masses in the 4 trusses
+	
+	Converted following tga files to dds:
+	
+		girderAdapterL/girderAdapter1.tga
+		girderAdapterT/girderAdapter1.tga
+		girderAdapterX/girderAdapter1.tga
+		landingStrut/landingStrut.tga
+		landingStrut/landingStrut_NRM.tga
+		longTruss/longTruss.tga
+		longTrussAdapterL/longTruss.tga
+		longTrussAdapterT/longTruss.tga
+		longTrussAdapterX/longTruss.tga
+		trianglePlate/longTruss.tga
+		trianglePlate/trianglePlate.tga
+		trianglePlate/trianglePlate_NRM.tga
+	
+	
+	
+	Disabled the old ModuleLandingLeg module in the landingStrut part
+	Added missing mesh line to the tankBigBall part
+	Changed name of mod directory to TurboNisuFinalized
+	Updated the path to the mesh for the following parts:
+		TurboNisuFinalized/Parts/tankBigCap/partBall.cfg
+		TurboNisuFinalized/Parts/tankBigCap/partBall.cfg
+		TurboNisuFinalized/Parts/trianglePlate/hexPart.cfg
+		TurboNisuFinalized/Parts/trianglePlate/hexPart.cfg
+		TurboNisuFinalized/Parts/trianglePlate/hexPart.cfg
+		TurboNisuFinalized/Parts/trianglePlate/hexPart.cfg
+		TurboNisuFinalized/Parts/trianglePlate/hexPart.cfg
+		TurboNisuFinalized/Parts/trianglePlate/hexPart.cfg
+		
+	Adjusted node positions for following parts:
+		tankBigBall
+		tankBigCap
+		triPlate
+		hexPart
+	
+	Added tags to all parts
+	Added ModuleLiftingSurface to adapter parts:
+		tankSmallAdapter
+		tankBigAdapter
+	
+	Merged girderAdapters into one directory to reduce duplicate textures
+	merged trusses into one directory to reduce duplicate textures
+	Added tags to all parts
