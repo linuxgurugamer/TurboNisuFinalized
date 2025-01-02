@@ -47,3 +47,6 @@
 	Merged girderAdapters into one directory to reduce duplicate textures
 	merged trusses into one directory to reduce duplicate textures
 	Added tags to all parts
+
+1.0.0.1
+	Fixed links in the TurboNisuReloaded-readme.txt file

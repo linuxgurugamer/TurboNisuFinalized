@@ -7,9 +7,9 @@ KSP Version: 1.0+ (as this is purely a parts pack, it is unlikely compatibility 
 
 Original works by TurboNisu, updated by A__Gun
 
-TurboNisuReloaded forum thread: http://forum.kerbalspaceprogram.com/threads/102041-0-25-TurboNisuReloaded-Stock-a-Like-Parts-Pack-5-12-14
+TurboNisuReloaded forum thread: https://forum.kerbalspaceprogram.com/topic/92020-10-turbonisureloaded-stock-a-like-parts-pack-060515/
 
-Original forum thread: http://forum.kerbalspaceprogram.com/threads/69539-0-23-Stockalike-parts-for-useful-esthetics
+Original forum https://forum.kerbalspaceprogram.com/topic/63112-023-stockalike-parts-for-useful-esthetics/?do=findComment&comment=958370
 
 
 Background
