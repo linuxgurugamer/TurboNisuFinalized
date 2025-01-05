@@ -50,3 +50,8 @@
 
 1.0.0.1
 	Fixed links in the TurboNisuReloaded-readme.txt file
+
+1.0.0.2
+	Thanks to github user @KSAMissionCtrl for finding these issues:
+		Removed duplicate tag in triplate part
+		Fixed model statement for the longTrussAdapterL/longTruss
